@@ -1,0 +1,28 @@
+{
+  "win32": {
+    "atomicParsley": {
+      "version": 1,
+      "realVersion": "20210715.151551.e7ad03a",
+      "source": "https://github.com/wez/atomicparsley/releases/download/20210715.151551.e7ad03a/AtomicParsleyWindows.zip",
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v1.0.0/AtomicParsley.exe"
+    },
+    "ffmpeg": {
+      "version": 1,
+      "realVersion": "2022-10-20-git-eb9153b4a7",
+      "source": "https://github.com/GyanD/codexffmpeg/releases/download/2022-10-20-git-eb9153b4a7/ffmpeg-2022-10-20-git-eb9153b4a7-full_build.zip",
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v1.0.0/ffmpeg.exe"
+    },
+    "ffprobe": {
+      "version": 1,
+      "realVersion": "2022-10-20-git-eb9153b4a7",
+      "source": "https://github.com/GyanD/codexffmpeg/releases/download/2022-10-20-git-eb9153b4a7/ffmpeg-2022-10-20-git-eb9153b4a7-full_build.zip",
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v1.0.0/ffprobe.exe"
+    },
+    "ytDlp": {
+      "version": 1,
+      "realVersion": "2022.10.04",
+      "source": "https://github.com/yt-dlp/yt-dlp/releases/download/2022.10.04/yt-dlp.exe",
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v1.0.0/yt-dlp.exe"
+    }
+  }
+}
