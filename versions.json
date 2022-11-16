@@ -4,25 +4,25 @@
       "version": 1,
       "realVersion": "20210715.151551.e7ad03a",
       "source": "https://github.com/wez/atomicparsley/releases/download/20210715.151551.e7ad03a/AtomicParsleyWindows.zip",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1.0.0/AtomicParsley.exe"
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/AtomicParsley.exe"
     },
     "ffmpeg": {
       "version": 1,
       "realVersion": "5.1.2",
       "source": "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1.0.0/ffmpeg.exe"
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/ffmpeg.exe"
     },
     "ffprobe": {
       "version": 1,
       "realVersion": "5.1.2",
       "source": "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1.0.0/ffprobe.exe"
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/ffprobe.exe"
     },
     "ytDlp": {
       "version": 1,
       "realVersion": "2022.10.04",
       "source": "https://github.com/yt-dlp/yt-dlp/releases/download/2022.10.04/yt-dlp.exe",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1.0.0/yt-dlp.exe"
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/yt-dlp.exe"
     }
   },
   "linux": {
@@ -30,25 +30,25 @@
       "version": 1,
       "realVersion": "20210715.151551.e7ad03a",
       "source": "https://github.com/wez/atomicparsley/releases/download/20210715.151551.e7ad03a/AtomicParsleyLinux.zip",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1.0.0/AtomicParsley"
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/AtomicParsley"
     },
     "ffmpeg": {
       "version": 1,
       "realVersion": "5.1.1",
       "source": "https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1.0.0/ffmpeg"
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/ffmpeg"
     },
     "ffprobe": {
       "version": 1,
       "realVersion": "5.1.1",
       "source": "https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1.0.0/ffmpeg"
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/ffmpeg"
     },
     "ytDlp": {
       "version": 1,
       "realVersion": "2022.10.04",
       "source": "https://github.com/yt-dlp/yt-dlp/releases/download/2022.10.04/yt-dlp_linux",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1.0.0/yt-dlp"
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/yt-dlp"
     }
   }
 }
