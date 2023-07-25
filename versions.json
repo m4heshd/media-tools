@@ -1,62 +1,62 @@
 {
   "win32": {
     "atomicParsley": {
-      "version": 1,
-      "realVersion": "20210715.151551.e7ad03a",
+      "version": 2,
+      "realVersion": "20221229.172126.d813aa6",
       "filename": "AtomicParsley.exe",
-      "source": "https://github.com/wez/atomicparsley/releases/download/20210715.151551.e7ad03a/AtomicParsleyWindows.zip",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/AtomicParsley.exe"
+      "source": "https://github.com/wez/atomicparsley/releases/download/20221229.172126.d813aa6/AtomicParsleyWindows.zip",
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v2/AtomicParsley.exe"
     },
     "ffmpeg": {
-      "version": 1,
-      "realVersion": "5.1.2",
+      "version": 2,
+      "realVersion": "6.0",
       "filename": "ffmpeg.exe",
       "source": "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/ffmpeg.exe"
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v2/ffmpeg.exe"
     },
     "ffprobe": {
-      "version": 1,
-      "realVersion": "5.1.2",
+      "version": 2,
+      "realVersion": "6.0",
       "filename": "ffprobe.exe",
       "source": "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/ffprobe.exe"
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v2/ffprobe.exe"
     },
     "ytDlp": {
-      "version": 1,
-      "realVersion": "2022.10.04",
+      "version": 2,
+      "realVersion": "2023.07.06",
       "filename": "yt-dlp.exe",
-      "source": "https://github.com/yt-dlp/yt-dlp/releases/download/2022.10.04/yt-dlp.exe",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/yt-dlp.exe"
+      "source": "https://github.com/yt-dlp/yt-dlp/releases/download/2023.07.06/yt-dlp.exe",
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v2/yt-dlp.exe"
     }
   },
   "linux": {
     "atomicParsley": {
-      "version": 1,
-      "realVersion": "20210715.151551.e7ad03a",
+      "version": 2,
+      "realVersion": "20221229.172126.d813aa6",
       "filename": "AtomicParsley",
-      "source": "https://github.com/wez/atomicparsley/releases/download/20210715.151551.e7ad03a/AtomicParsleyLinux.zip",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/AtomicParsley"
+      "source": "https://github.com/wez/atomicparsley/releases/download/20221229.172126.d813aa6/AtomicParsleyLinux.zip",
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v2/AtomicParsley"
     },
     "ffmpeg": {
-      "version": 1,
-      "realVersion": "5.1.1",
+      "version": 2,
+      "realVersion": "6.0",
       "filename": "ffmpeg",
       "source": "https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/ffmpeg"
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v2/ffmpeg"
     },
     "ffprobe": {
-      "version": 1,
-      "realVersion": "5.1.1",
+      "version": 2,
+      "realVersion": "6.0",
       "filename": "ffprobe",
       "source": "https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/ffprobe"
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v2/ffprobe"
     },
     "ytDlp": {
-      "version": 1,
-      "realVersion": "2022.10.04",
+      "version": 2,
+      "realVersion": "2023.07.06",
       "filename": "yt-dlp",
-      "source": "https://github.com/yt-dlp/yt-dlp/releases/download/2022.10.04/yt-dlp_linux",
-      "download": "https://github.com/m4heshd/media-tools/releases/download/v1/yt-dlp"
+      "source": "https://github.com/yt-dlp/yt-dlp/releases/download/2023.07.06/yt-dlp_linux",
+      "download": "https://github.com/m4heshd/media-tools/releases/download/v2/yt-dlp"
     }
   }
 }
