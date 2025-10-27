@@ -2,50 +2,50 @@
   "win32": {
     "x64": {
       "ffmpeg": {
-        "version": 2,
-        "realVersion": "6.0",
+        "version": 3,
+        "realVersion": "7.0.2",
         "filename": "ffmpeg.exe",
-        "source": "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z",
-        "download": "https://github.com/m4heshd/media-tools/releases/download/v2/ffmpeg.exe"
+        "source": "https://github.com/GyanD/codexffmpeg/releases/download/7.0.2/ffmpeg-7.0.2-full_build.zip",
+        "download": "https://github.com/m4heshd/media-tools/releases/download/v3/ffmpeg_x64.exe"
       },
       "ffprobe": {
-        "version": 2,
-        "realVersion": "6.0",
+        "version": 3,
+        "realVersion": "7.0.2",
         "filename": "ffprobe.exe",
-        "source": "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z",
-        "download": "https://github.com/m4heshd/media-tools/releases/download/v2/ffprobe.exe"
+        "source": "https://github.com/GyanD/codexffmpeg/releases/download/7.0.2/ffmpeg-7.0.2-full_build.zip",
+        "download": "https://github.com/m4heshd/media-tools/releases/download/v3/ffprobe_x64.exe"
       },
       "ytDlp": {
-        "version": 2,
-        "realVersion": "2023.07.06",
+        "version": 3,
+        "realVersion": "2025.10.22",
         "filename": "yt-dlp.exe",
-        "source": "https://github.com/yt-dlp/yt-dlp/releases/download/2023.07.06/yt-dlp.exe",
-        "download": "https://github.com/m4heshd/media-tools/releases/download/v2/yt-dlp.exe"
+        "source": "https://github.com/yt-dlp/yt-dlp/releases/download/2025.10.22/yt-dlp.exe",
+        "download": "https://github.com/m4heshd/media-tools/releases/download/v3/yt-dlp_x64.exe"
       }
     }
   },
   "linux": {
     "x64": {
       "ffmpeg": {
-        "version": 2,
-        "realVersion": "6.0",
+        "version": 3,
+        "realVersion": "7.0.2",
         "filename": "ffmpeg",
         "source": "https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz",
-        "download": "https://github.com/m4heshd/media-tools/releases/download/v2/ffmpeg"
+        "download": "https://github.com/m4heshd/media-tools/releases/download/v3/ffmpeg_x64"
       },
       "ffprobe": {
-        "version": 2,
-        "realVersion": "6.0",
+        "version": 3,
+        "realVersion": "7.0.2",
         "filename": "ffprobe",
         "source": "https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz",
-        "download": "https://github.com/m4heshd/media-tools/releases/download/v2/ffprobe"
+        "download": "https://github.com/m4heshd/media-tools/releases/download/v3/ffprobe_x64"
       },
       "ytDlp": {
-        "version": 2,
-        "realVersion": "2023.07.06",
+        "version": 3,
+        "realVersion": "2025.10.22",
         "filename": "yt-dlp",
-        "source": "https://github.com/yt-dlp/yt-dlp/releases/download/2023.07.06/yt-dlp_linux",
-        "download": "https://github.com/m4heshd/media-tools/releases/download/v2/yt-dlp"
+        "source": "https://github.com/yt-dlp/yt-dlp/releases/download/2025.10.22/yt-dlp_linux",
+        "download": "https://github.com/m4heshd/media-tools/releases/download/v3/yt-dlp_linux_x64"
       }
     }
   }
