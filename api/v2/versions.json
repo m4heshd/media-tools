@@ -71,5 +71,30 @@
         "download": "https://github.com/m4heshd/media-tools/releases/download/v3/yt-dlp_linux_arm64"
       }
     }
+  },
+  "macos": {
+    "x64": {
+      "ffmpeg": {
+        "version": 3,
+        "realVersion": "7.0.2",
+        "filename": "ffmpeg",
+        "source": "https://ffmpeg.martin-riedl.de/download/macos/amd64/1726075833_7.0.2/ffmpeg.zip",
+        "download": "https://github.com/m4heshd/media-tools/releases/download/v3/ffmpeg_macos_x64"
+      },
+      "ffprobe": {
+        "version": 3,
+        "realVersion": "7.0.2",
+        "filename": "ffprobe",
+        "source": "https://ffmpeg.martin-riedl.de/download/macos/amd64/1726075833_7.0.2/ffprobe.zip",
+        "download": "https://github.com/m4heshd/media-tools/releases/download/v3/ffprobe_macos_x64"
+      },
+      "ytDlp": {
+        "version": 3,
+        "realVersion": "2025.10.22",
+        "filename": "yt-dlp",
+        "source": "https://github.com/yt-dlp/yt-dlp/releases/download/2025.10.22/yt-dlp_macos",
+        "download": "https://github.com/m4heshd/media-tools/releases/download/v3/yt-dlp_macos_x64"
+      }
+    }
   }
 }
