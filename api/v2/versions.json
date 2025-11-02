@@ -93,7 +93,7 @@
         "realVersion": "2025.10.22",
         "filename": "yt-dlp",
         "source": "https://github.com/yt-dlp/yt-dlp/releases/download/2025.10.22/yt-dlp_macos",
-        "download": "https://github.com/m4heshd/media-tools/releases/download/v3/yt-dlp_macos_x64"
+        "download": "https://github.com/m4heshd/media-tools/releases/download/v3/yt-dlp_macos_universal"
       }
     }
   }
